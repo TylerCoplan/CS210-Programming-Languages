@@ -1,0 +1,10 @@
+999999Lizzy          Oviparous      Goose          5 0
+121221Pierre         Oviparous      Pelican        99999 0
+123456123456789012345Oviparous      Crocodile      12345 0
+000569Willy          Mammal         Whale          0 1
+000044Sandy          Mammal         SeaLion        0 0
+000666Ozzy           Mammal         Bat            0 0
+784512Bluey          Mammal         Whale          0 1
+000007Barry          Oviparous      Goose          23 0
+101888Tiny           Mammal         Whale          0 0
+122272Sheila         Mammal         Elephant       0 0
