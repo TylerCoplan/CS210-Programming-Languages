@@ -6,8 +6,8 @@ together to create a database that kept track of zoo animals.  The premise of th
 have a tracking device and the software that I was prototyping would have to interface with the tracking devices to 
 record data on the animals.  That is why Java and C++ needed to be integrated together for this project.  What I think
 I did particularly well was following the UML diagram given to me the accompanying materials for the software specifications.
-I likely would have used Animal Class data members for different type and subtypes of animals instead of using classes.  
-By following the UML, I learned a lot about virtual functions (polymorphism), inheritance and pointers.  Since I had to keep
+I likely would have used Animal Class data members for different type and subtypes of animals instead of using classes.  By 
+following the UML, I learned a lot about virtual functions (polymorphism), inheritance and pointers.  Since I had to keep
 all animals in a single vector, the solution I came up with was to use the base class Animal pointers to point to derived class
 objects such as whales or crocodiles.  I have recently learned of function and class templates (which were not a part of my course)
 and I wonder if that could have been another possible route to take to create the desired data.  
